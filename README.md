@@ -1,5 +1,5 @@
-# folio-template-python
-Scaffolding for FOLIO scripts in Python
+# Prefect experiment
+Scratch repo for experimenting with Prefect. 
 
 ## Requirements
 
